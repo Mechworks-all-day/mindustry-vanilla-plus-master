@@ -5,7 +5,7 @@ Progress:
 
 Turrets: 9/12 Sprited
 
-Factories: 12/14 Sprited
+Factories: 12/15 Sprited
 
 Logistics: 4/9 Sprited
 
