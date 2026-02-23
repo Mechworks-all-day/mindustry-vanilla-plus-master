@@ -7,7 +7,7 @@ Turrets: 9/12 Sprited
 
 Factories: 10/15 Sprited
 
-Logistics: 4/11 Sprited
+Logistics: 4/9 Sprited
 
 Power: 0/7 Sprited
 
