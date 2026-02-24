@@ -7,7 +7,7 @@ Turrets: 13/13 Sprited, 0/13 coded
 
 Factories: 13/13 Sprited, 0/13 coded
 
-Logistics: 4/9 Sprited
+Logistics: 9/9 Sprited, 0/9 coded
 
 Power: 0/7 Sprited
 
