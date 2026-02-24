@@ -3,7 +3,7 @@ Master repo for Vanilla Plus modular mods. contains all Vanilla Plus content; wi
 
 Progress:
 
-Turrets: 9/12 Sprited
+Turrets: 13/13 Sprited
 
 Factories: 12/15 Sprited
 
