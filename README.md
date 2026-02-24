@@ -5,7 +5,7 @@ Progress:
 
 Turrets: 13/13 Sprited, 0/13 coded
 
-Factories: 15/15 Sprited, 0/15 coded
+Factories: 13/13 Sprited, 0/13 coded
 
 Logistics: 4/9 Sprited
 
