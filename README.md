@@ -9,5 +9,5 @@ Factories: 13/13 Sprited, 7/13 statted, 0/13 coded
 
 Logistics: 9/9 Sprited, 9/9 statted, 0/9 coded
 
-Power: 0/7 Sprited
+Power: 3/3 Sprited, 0/3 statted, 0/3 coded
 
